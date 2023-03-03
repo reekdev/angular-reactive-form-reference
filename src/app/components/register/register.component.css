@@ -1,0 +1,18 @@
+/* .row {
+  border: 1px solid black;
+} */
+
+form {
+  width: 600px;
+  border: 1px solid rgba(143, 35, 245, 0.562);
+  border-radius: 8px;
+  padding: 15px;
+}
+
+div.row {
+  margin: 0;
+}
+
+form.input {
+  border: 1px solid black;
+}
